@@ -1,0 +1,10 @@
+*~
+__pycache__
+.*.sw?
+*.orig
+*.pyc
+.DS_Store
+*.aux.xml
+*.ipynb_checkpoints
+*.log
+.idea/
